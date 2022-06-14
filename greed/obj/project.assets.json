@@ -124,11 +124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/greed/greed.csproj",
+      "projectUniqueName": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/Greed-game/greed/greed.csproj",
       "projectName": "greed",
-      "projectPath": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/greed/greed.csproj",
+      "projectPath": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/Greed-game/greed/greed.csproj",
       "packagesPath": "/Users/kaylenebuchanan/.nuget/packages/",
-      "outputPath": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/greed/obj/",
+      "outputPath": "/Users/kaylenebuchanan/Desktop/Kaylenes desktop/spring 2022/cse210/week8-project/Greed-game/greed/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kaylenebuchanan/.nuget/NuGet/NuGet.Config"
